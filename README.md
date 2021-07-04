@@ -1,7 +1,7 @@
 instructions:
-take pull of the code
-do npm install
-do ng serve
+take pull of the code, 
+do npm install, 
+do ng serve, 
 open http://localhost:4200 on browser
 
 # Netobjex
